@@ -3,3 +3,6 @@
 ################################################################################
 
 /OceanicProject/bin
+/OceanicProject/obj/Debug
+/.vs/OceanicProject
+/packages
